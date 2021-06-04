@@ -121,7 +121,7 @@ footer p {
     align-items: center;
   }
   form {
-    display: flex;
+     /* display: flex; */
     align-items: center;
     justify-content: center;
   }
